@@ -1,6 +1,6 @@
 # stats220
 
-This is my repo for **stats220**
+This is my repo for **stats220** which will contain code used in projects.
 
 ### Assessments
 
